@@ -1,0 +1,8 @@
+
+
+
+## 01.09
+### Har installert docker og github.
+#### Satt opp ett repo knyttet opp til "https://github.com/jokkmokken/AK2"
+##### Lagt til ett OS på dockerfilen og knyttet working dir til /app
+###### Innså at jeg manglet å gjøre litt forhåndsarbeid så gjøre noe arbeid i AK1 
